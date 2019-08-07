@@ -1,0 +1,10 @@
+C:\Users\jules\source\repos\classes e objetos\bin\Debug\classes e objetos.exe.config
+C:\Users\jules\source\repos\classes e objetos\bin\Debug\classes e objetos.exe
+C:\Users\jules\source\repos\classes e objetos\bin\Debug\classes e objetos.pdb
+C:\Users\jules\source\repos\classes e objetos\obj\Debug\classes e objetos.csprojAssemblyReference.cache
+C:\Users\jules\source\repos\classes e objetos\obj\Debug\classes_e_objetos.Form1.resources
+C:\Users\jules\source\repos\classes e objetos\obj\Debug\classes_e_objetos.Properties.Resources.resources
+C:\Users\jules\source\repos\classes e objetos\obj\Debug\classes e objetos.csproj.GenerateResource.cache
+C:\Users\jules\source\repos\classes e objetos\obj\Debug\classes e objetos.csproj.CoreCompileInputs.cache
+C:\Users\jules\source\repos\classes e objetos\obj\Debug\classes e objetos.exe
+C:\Users\jules\source\repos\classes e objetos\obj\Debug\classes e objetos.pdb
